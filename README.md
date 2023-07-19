@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Raghav-Awasthi/ml-project/blob/main/logo.png" width="75" height="75"/>
+</p>
+
 # Sentimeet - _Meeting emotions analyzed in real time!_
 ## Project Proposal
 - Sentimeet is a chrome extension that provides real-time meeting analytics and assists individuals with emotional impairments during virtual meetings. It analyzes facial expressions and speech to detect emotions, providing participants with insights into meeting dynamics, participant engagement, and sentiment trends. The extension offers an interactive user interface that displays meeting analytics, helping users understand and enhance their communication and collaboration.
