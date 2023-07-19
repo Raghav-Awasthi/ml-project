@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Raghav-Awasthi/ml-project/blob/main/logo.png" width="75" height="75"/>
+  <img src="https://github.com/Raghav-Awasthi/ml-project/blob/main/logo.png" width="150" height="150"/>
 </p>
 
 # Sentimeet - _Meeting emotions analyzed in real time!_
