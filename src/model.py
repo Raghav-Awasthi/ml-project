@@ -397,7 +397,7 @@ if (cv2.waitKey(1) == ord("q")):
 win_name = "Camera Preview"
 cv2.namedWindow(win_name, cv2.WINDOW_NORMAL)
 
-net = cv2.dnn.readNetFromCaffe("./face_detector/deploy.prototxt", "./face_detector/res10_300x300_ssd_iter_140000_fp16.caffemodel")
+net = cv2.dnn.readNetFromCaffe("deploy.prototxt", "res10_300x300_ssd_iter_140000_fp16.caffemodel")
 # net is instance of the network object
 
 
@@ -435,22 +435,6 @@ while cv2.waitKey(1) != 27:
         cv2.imshow("frame", frame)
 source.release()
 cv2.destroyWindow(win_name)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
